@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite156","order":5,"path":"sprites/Sprite156/Sprite156.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite15","order":4,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"Sprite123","order":2,"path":"sprites/Sprite123/Sprite123.yy",},
     {"name":"Sprite12","order":1,"path":"sprites/Sprite12/Sprite12.yy",},
   ],
